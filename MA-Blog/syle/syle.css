@@ -1,0 +1,41 @@
+body{
+    background-color:#;
+}
+.container{
+    border: 20px solid #bdc3c7;
+    padding: 20px;
+    max-width: 700px;
+    margin: 0 auto;
+    width: 80%;
+}
+.date {
+    font-family: 'Questrial', sans-serif;
+    font-size: 15px;
+    color:#4361ee ;
+}
+h1{
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+    font-size: 40px;
+    font-weight: 800;
+    
+}
+
+.heading{
+    font-family: 'Source Serif Pro', serif;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+img {
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    width: 300px;
+    height: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
